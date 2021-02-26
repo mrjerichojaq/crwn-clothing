@@ -6,6 +6,7 @@ import "./homepage.styles.scss"
 const HomePage = () => {
     return (
         <div className="homepage">
+        <h1>Remove for git</h1>
             <div className="directory-menu">
                 <div className="menu-item">
                     <div className="content">
